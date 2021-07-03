@@ -39,3 +39,4 @@ Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONT
 </a>
 
 Made with :heart: and JavaScript!
+🎉
